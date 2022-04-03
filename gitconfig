@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = davidppessanha@gmail.com
+	name = David Pessanha
